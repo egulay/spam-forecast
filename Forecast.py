@@ -1,7 +1,6 @@
 import matplotlib.pyplot as plt
 import numpy as np
 from sklearn import linear_model
-import datetime
 
 from OutputFormatter import output_formatter
 
